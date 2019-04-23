@@ -1,0 +1,17 @@
+#stats{
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+}
+
+#main{
+    display: grid;
+    width: 80%;
+    margin: auto;
+    height: 400px;
+    background-color: rgb(233, 233, 233);
+    
+}
+h6 {
+    margin: 25px;
+}
